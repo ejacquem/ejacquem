@@ -1,4 +1,8 @@
 ## Hi there 👋
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ejacquem&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ejacquem&theme=maroongold&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ejacquem&theme=maroongold&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **ejacquem/ejacquem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
